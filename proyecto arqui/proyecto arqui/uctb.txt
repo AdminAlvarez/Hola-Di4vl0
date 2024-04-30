@@ -1,0 +1,49 @@
+module testbench_uc();
+
+reg [5:0] opcode;
+wire MemToReg, RegWrite, MemToWrite;
+wire [2:0] ALUOp;
+
+// Instancia el módulo
+uc uc_inst (
+    .opcode(opcode),
+    .MemToReg(MemToReg),
+    .RegWrite(RegWrite),
+    .MemToWrite(MemToWrite),
+    .ALUOp(ALUOp)
+);
+
+// Simulación
+initial begin
+    // Caso 1: opcode es 6'b000000
+    opcode = 6'b000000;
+    #10; // Espera 10 unidades de tiempo
+    if (!(MemToReg && RegWrite && MemToWrite && (ALUOp === 3'b000))) begin
+        $display("ERROR: Salida incorrecta para opcode = 6'b000000");
+    end
+
+    // Caso 2: opcode es 6'b000010
+    opcode = 6'b000010;
+    #10; // Espera 10 unidades de tiempo
+    if (!(~MemToReg && ~RegWrite && ~MemToWrite && (ALUOp === 3'b010))) begin
+        $display("ERROR: Salida incorrecta para opcode = 6'b000010");
+    end
+
+    // Caso 3: opcode es 6'b001000
+    opcode = 6'b001000;
+    #10; // Espera 10 unidades de tiempo
+    if (!(~MemToReg && ~RegWrite && ~MemToWrite && (ALUOp === 3'b100))) begin
+        $display("ERROR: Salida incorrecta para opcode = 6'b001000");
+    end
+
+    // Caso 4: opcode no coincide con ningún caso
+    opcode = 6'b111111;
+    #10; // Espera 10 unidades de tiempo
+    if (!(~MemToReg && ~RegWrite && ~MemToWrite && (ALUOp === 3'b100))) begin
+        $display("ERROR: Salida incorrecta para opcode = 6'b111111");
+    end
+
+    $finish; // Finaliza la simulación
+end
+
+endmodule

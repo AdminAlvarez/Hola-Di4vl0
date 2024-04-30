@@ -1,0 +1,380 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+valu
+Z0 !s110 1714359756
+!i10b 1
+!s100 iPA`WHHg8k]hoLaCdVPbj2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0l3Kl8Mg53`O`;O[XDlN=1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/borch/Downloads/Nueva carpeta
+Z4 w1714356377
+8C:\Users\borch\Downloads\Nueva carpeta\alu.v
+FC:\Users\borch\Downloads\Nueva carpeta\alu.v
+!i122 248
+L0 1 26
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1714359756.000000
+!s107 C:\Users\borch\Downloads\Nueva carpeta\alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\borch\Downloads\Nueva carpeta\alu.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+valu_control
+Z9 !s110 1714359757
+!i10b 1
+!s100 Bk9l==nGzRSeZGG1S:KVl3
+R1
+IR3glB>1f5ZK`CE:EQiKW33
+R2
+R3
+R4
+8C:\Users\borch\Downloads\Nueva carpeta\alu_control.v
+FC:\Users\borch\Downloads\Nueva carpeta\alu_control.v
+!i122 251
+L0 1 33
+R5
+r1
+!s85 0
+31
+Z10 !s108 1714359757.000000
+!s107 C:\Users\borch\Downloads\Nueva carpeta\alu_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\borch\Downloads\Nueva carpeta\alu_control.v|
+!i113 1
+R7
+R8
+vbam
+!s110 1713309845
+!i10b 1
+!s100 hYPRlPV`jXn1I:m^i>GP82
+R1
+IO<hOaj092@RCB]cBS3b<W2
+R2
+Z11 dC:/Users/Jazael/Documents/multiplexor/Nueva carpeta
+w1713309245
+8C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/Bam.v
+FC:/Users/Jazael/Documents/multiplexor/Nueva carpeta/Bam.v
+!i122 139
+Z12 L0 1 41
+R5
+r1
+!s85 0
+31
+!s108 1713309845.000000
+!s107 C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/Bam.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/Bam.v|
+!i113 1
+R7
+R8
+vBam
+Z13 !s110 1713236327
+!i10b 1
+!s100 3=XZJ7?:W1>LOQIl?jSI53
+R1
+IkVkG`o4F?<2Hckb<Lo0Q21
+R2
+R11
+w1713233476
+8C:\Users\Jazael\Documents\multiplexor\Nueva carpeta\Bam.v
+FC:\Users\Jazael\Documents\multiplexor\Nueva carpeta\Bam.v
+!i122 65
+R12
+R5
+r1
+!s85 0
+31
+Z14 !s108 1713236327.000000
+!s107 C:\Users\Jazael\Documents\multiplexor\Nueva carpeta\Bam.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Jazael\Documents\multiplexor\Nueva carpeta\Bam.v|
+!i113 1
+R7
+R8
+n@bam
+vbam_tb
+!s110 1713236739
+!i10b 1
+!s100 fTK^a@XN?cV]E<?TmUZFQ1
+R1
+IQ_kN]Yeaz[kVz7E9HYX1l2
+R2
+R11
+w1713236668
+Z15 8C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/bam_tb.v
+Z16 FC:/Users/Jazael/Documents/multiplexor/Nueva carpeta/bam_tb.v
+!i122 78
+L0 2 313
+R5
+r1
+!s85 0
+31
+!s108 1713236739.000000
+Z17 !s107 C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/bam_tb.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/bam_tb.v|
+!i113 1
+R7
+R8
+vbanco_registros
+R0
+!i10b 1
+!s100 iVfi?P4Y]U=aQ?SK^5`l?1
+R1
+I1O;^oaof3igDAn;TJGCSh3
+R2
+R3
+R4
+8C:\Users\borch\Downloads\Nueva carpeta\BR.v
+FC:\Users\borch\Downloads\Nueva carpeta\BR.v
+!i122 249
+L0 1 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:\Users\borch\Downloads\Nueva carpeta\BR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\borch\Downloads\Nueva carpeta\BR.v|
+!i113 1
+R7
+R8
+vbr
+R13
+!i10b 1
+!s100 hVSJXI;PE6iPQ0nB7EidW2
+R1
+IbCi?^@PP8A4Dn[@;NNRX41
+R2
+R11
+w1713233429
+8C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/BR.v
+FC:/Users/Jazael/Documents/multiplexor/Nueva carpeta/BR.v
+!i122 66
+L0 1 22
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/BR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/BR.v|
+!i113 1
+R7
+R8
+vbr_tb
+!s110 1713309846
+!i10b 1
+!s100 EK;Kea`=oBN8>;MOBW_Pi1
+R1
+IdPSbcELo9AXFNEFbe_3@H1
+R2
+R11
+w1713309326
+8C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/br_tb.v
+FC:/Users/Jazael/Documents/multiplexor/Nueva carpeta/br_tb.v
+!i122 141
+L0 3 192
+R5
+r1
+!s85 0
+31
+!s108 1713309846.000000
+!s107 C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/br_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/br_tb.v|
+!i113 1
+R7
+R8
+vdatapath
+!s110 1714360591
+!i10b 1
+!s100 I4=]YeadH4D?jXfX_871V2
+R1
+In5A43QOg0;o;MEbNOhgkA2
+R2
+R3
+w1714360585
+8C:\Users\borch\Downloads\Nueva carpeta\dptr.v
+FC:\Users\borch\Downloads\Nueva carpeta\dptr.v
+!i122 255
+L0 2 56
+R5
+r1
+!s85 0
+31
+!s108 1714360591.000000
+!s107 C:\Users\borch\Downloads\Nueva carpeta\dptr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\borch\Downloads\Nueva carpeta\dptr.v|
+!i113 1
+R7
+R8
+vmux_2_1
+R9
+!i10b 1
+!s100 eAoKaZ=22dW1?<CjWB>no2
+R1
+I3X44IeINggg:izz`4K?^Z3
+R2
+R3
+R4
+8C:\Users\borch\Downloads\Nueva carpeta\mux_2_1.v
+FC:\Users\borch\Downloads\Nueva carpeta\mux_2_1.v
+!i122 250
+Z19 L0 1 16
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\borch\Downloads\Nueva carpeta\mux_2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\borch\Downloads\Nueva carpeta\mux_2_1.v|
+!i113 1
+R7
+R8
+vram
+!s110 1714359758
+!i10b 1
+!s100 ^EGQ:OICR2<1R1ecBhg;T1
+R1
+IORQ<K0z4le;zcPfNMJVR:2
+R2
+R3
+R4
+8C:\Users\borch\Downloads\Nueva carpeta\Memoria_ram.v
+FC:\Users\borch\Downloads\Nueva carpeta\Memoria_ram.v
+!i122 253
+R19
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\borch\Downloads\Nueva carpeta\Memoria_ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\borch\Downloads\Nueva carpeta\Memoria_ram.v|
+!i113 1
+R7
+R8
+vtb_bam
+!s110 1713309847
+!i10b 1
+!s100 Y<Le]UOKdLbgGVIc:j02D0
+R1
+IC;c1GG7ZOjLI<^T:im0l72
+R2
+R11
+w1713309835
+R15
+R16
+!i122 143
+L0 3 321
+R5
+r1
+!s85 0
+31
+!s108 1713309847.000000
+R17
+R18
+!i113 1
+R7
+R8
+vtestbench_datapath
+R0
+!i10b 1
+!s100 6@HLFamBMkUKXdfW3=ggD2
+R1
+Ihd=_UmeR3JO:2DjzlQZ9g2
+R2
+R3
+w1714358521
+8C:\Users\borch\Downloads\Nueva carpeta\dptr_tb2.v
+FC:\Users\borch\Downloads\Nueva carpeta\dptr_tb2.v
+!i122 247
+L0 3 44
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:\Users\borch\Downloads\Nueva carpeta\dptr_tb2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\borch\Downloads\Nueva carpeta\dptr_tb2.v|
+!i113 1
+R7
+R8
+vtestbench_mux_2_1
+!s110 1714335672
+!i10b 1
+!s100 5HGPSkVSlLG6b=47S2Ml53
+R1
+I_9l4XX`U8VkI4D8[D:MFD2
+R2
+R11
+w1714335642
+8C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/mux_2_1tb.v
+FC:/Users/Jazael/Documents/multiplexor/Nueva carpeta/mux_2_1tb.v
+!i122 159
+L0 1 29
+R5
+r1
+!s85 0
+31
+!s108 1714335671.000000
+!s107 C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/mux_2_1tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/mux_2_1tb.v|
+!i113 1
+R7
+R8
+vtestbench_uc
+!s110 1714336933
+!i10b 1
+!s100 WhFjHa`QHajRAW44<z=LL1
+R1
+IXYKE^f2H?0E0No=lUb]d?1
+R2
+R11
+w1714336928
+8C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/uc_tb.v
+FC:/Users/Jazael/Documents/multiplexor/Nueva carpeta/uc_tb.v
+!i122 161
+L0 3 28
+R5
+r1
+!s85 0
+31
+!s108 1714336933.000000
+!s107 C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/uc_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jazael/Documents/multiplexor/Nueva carpeta/uc_tb.v|
+!i113 1
+R7
+R8
+vuc
+R9
+!i10b 1
+!s100 2Mn;U1C58F8;L7;2_A8]62
+R1
+IHAFHjGmaT326[]?GB=_d`0
+R2
+R3
+w1714356499
+8C:\Users\borch\Downloads\Nueva carpeta\uc.v
+FC:\Users\borch\Downloads\Nueva carpeta\uc.v
+!i122 252
+L0 2 42
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\borch\Downloads\Nueva carpeta\uc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\borch\Downloads\Nueva carpeta\uc.v|
+!i113 1
+R7
+R8
