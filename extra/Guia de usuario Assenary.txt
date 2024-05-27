@@ -1,0 +1,33 @@
+Guia de usuario Assenary
+
+Home
+
+En la pagina de inicio nos podremos encontrar con 4 secciones, para satisfacer correctamente
+el objetivo de el programa se tendran que llenar cada una de estas 4 secciones por completo
+
+FASE 1
+En la primera seccion podremos observar la instruccion "Seleccionar el Archivo de origen" y
+una caja de texto acompañada del boton con la etiqueta "Examinar", para completar de manera
+satisfactoria esta fase tendremos que apretar el boton de examinar y en el explorador de archivos
+de nuestro dispositivo seleccionar el archivo con el codigo de ensamblador que se ha escrito previamente.
+Despues de elegir el archivo podremos observar en la caja de texto la ruta hacia el mismo.
+
+FASE 2
+En la segunda seccion de el programa podremos observar la instruccion "Seleccionar el directorio de destino"
+y una caja de texto acompañada del boton con la etiqueta "Examinar", para completar de manera satisfactoria 
+esta fase tendremos que apretar el boton de examinar y en el explorador de archivos de nuestro dispositivo 
+seleccionar el directiorio (o carpeta) donde deseamos que se guarde el nuevo archivo con el codigo maquina.
+Despues de elegir el directorio podremos observar en la caja de texto la ruta hacia el mismo.
+
+FASE 3
+En la tercera seccion se encontrara la instruccion "Ingrese el nombre del archivo a crear (incluir.txt)"
+acompañado de una caja de texto donde tendremos que ingresar el nombre del nuevo archivo donde se guardaran
+las instrucciones en codigo maquina, es importante que al momento de ingresar como queremos que se llame el
+nuevo archivo agregar la extension .txt al final del nombre.
+
+FASE 4
+Por ultimo, observaremos el boton con la etiqueta "Aceptar", una vez que completemos correctamente todas las 
+fases anteriores, presionaremos este boton y saltara una ventana con un aviso con el mensaje "se ha codificado
+correctamente el archivo" indicando que todo el proceso se ha completado con exito y podremos encontrar el nuevo archivo en el directorio elegido.
+
+
